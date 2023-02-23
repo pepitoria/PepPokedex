@@ -5,12 +5,12 @@ plugins {
 
 android {
   namespace 'com.pepdoesthings.peppokedex'
-  compileSdk 33
+  compileSdk project.compileSdkVersion
 
   defaultConfig {
     applicationId "com.pepdoesthings.peppokedex"
-    minSdk 24
-    targetSdk 33
+    minSdk project.minSdkVersion
+    targetSdk project.targetSdkVersion
     versionCode 1
     versionName "1.0"
 
