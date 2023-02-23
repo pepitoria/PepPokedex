@@ -65,6 +65,7 @@ TBC:
 
 ## License
 Software developed by Jose Luis Montes Jiménez and released under the [GNU Public License v3](LICENSE.md)
+
 Copyright (C) 2023  Jose Luis Montes Jiménez
 
 This program is free software: you can redistribute it and/or modify
