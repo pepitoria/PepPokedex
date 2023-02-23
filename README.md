@@ -10,6 +10,7 @@ architecture in android
 * [Architecture](#architecture)
 * [Technologies](#technologies)
 * [Credits](#credits)
+* [License](#license)
 
 ## Requisites
 
@@ -61,3 +62,6 @@ TBC:
 ## Credits
 * [Fran García](https://github.com/FranGarc), who motivated me to do this and from whom I shamelessly copied his readme from [his Pokedex repo](https://github.com/FranGarc/Pokedex/)
 * [Agustín Ventura](https://github.com/agustinventura) for being our personal wikiman for all things architecture and development.
+
+## License
+Software developed by Jose Luis Montes Jiménez and released under the [GNU Public License v3](LICENSE.md)
